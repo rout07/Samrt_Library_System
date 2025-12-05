@@ -55,22 +55,6 @@ SmartLibX/
 
 ---
 
-## 📥 Installation & Setup
-
-### 1️⃣ Install Required Libraries
-```bash
-pip install customtkinter pillow qrcode matplotlib
-```
-
-### 2️⃣ Run the App
-```bash
-python main.py
-```
-
-### 3️⃣ Default Admin Password
-```
-admin123
-```
 
 ---
 
